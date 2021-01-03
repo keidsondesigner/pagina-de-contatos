@@ -49,18 +49,26 @@ a:active {
 .fab{
   padding:8px;
 }
-.fa-facebook{
-  color:#3a5794;
+
+.fa-linkedin{
+  color:#0073af;
 }
-.fa-instagram{
-  color:#ed8128;
+.fa-github{
+  color:#495057;
 }
 .fa-whatsapp{
   color:#24cc63;
 }
-.fa-linkedin{
-  color:#0073af;
+.fa-behance{
+  color:#5c7cfa;
 }
+.fa-instagram{
+  color:#ed8128;
+}
+.fa-facebook{
+  color:#3a5794;
+}
+
 
 /* Flex Container */
 
@@ -116,6 +124,29 @@ a:active {
   color: rgb(82, 200, 255);
 }
 
+.btn-github{
+  max-width: 35rem;
+  min-width: 23rem;
+  min-height: 5rem;
+  width: 95%;
+  
+  font-family: 'Montserrat', sans-serif;  
+  font-size: 21px;  
+  background: #ffffff;
+  color: #2e2c34;
+  border: 2px solid #ffffff;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  padding:20px 50px;
+  cursor: pointer;
+  transition-duration: 0.5s;
+}
+.btn-github:hover {
+  background: white;
+  color: #7c7c7c;
+  -webkit-transform: scale(103%);
+  transform: scale(103%);
+}
 .btn-whatsapp{
   max-width: 35rem;
   min-width: 23rem;
@@ -136,6 +167,29 @@ a:active {
 .btn-whatsapp:hover {
   background: white;
   color: #24cc63;
+  -webkit-transform: scale(103%);
+  transform: scale(103%);
+}
+.btn-behance{
+  max-width: 35rem;
+  min-width: 23rem;
+  min-height: 5rem;
+  width: 95%;
+  
+  font-family: 'Montserrat', sans-serif;  
+  font-size: 21px;  
+  background: #ffffff;
+  color: #2e2c34;
+  border: 2px solid #ffffff;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  padding:20px 50px;
+  cursor: pointer;
+  transition-duration: 0.5s;
+}
+.btn-behance:hover {
+  background: white;
+  color: #5c7cfa;
   -webkit-transform: scale(103%);
   transform: scale(103%);
 }
