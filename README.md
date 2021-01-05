@@ -1,16 +1,20 @@
-### Finalmente uma página pessoal! 👋
 
-<!--
-**keidsondesigner/keidsondesigner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello World I'm Avily Silva 👏
 
-Here are some ideas to get you started:
+    Let's get started!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Apaixonado por Programação
+
+💿 Tenho como hobby a Música
+
+📝 Adoro Escrever e Desenhar
+
+❤️ Se preencha de compaixão ❤️
+
+Gmail
+
+Linkedin
+
+Twitter
+
+Instagram
