@@ -10,10 +10,11 @@
 
 
 
-<a href="https://www.w3schools.com">![Gmail](https://github.com/keidsondesigner/social-icon/blob/main/gmail.png)</a>
+<a href="https://www.gmail.com">![Gmail](https://github.com/keidsondesigner/social-icon/blob/main/gmail.png)</a>
 
-![Linkedin](https://github.com/AvilySlv/avilyslv/blob/master/social/linkedin.jpg)
+<a href="https://www.linkedin.com/in/keidsonroby/">![Linkedin](https://github.com/keidsondesigner/social-icon/blob/main/linkedin.png)</a>
 
-![Twitter](https://github.com/AvilySlv/avilyslv/blob/master/social/twitter.jpg)
+<a href="https://www.instagram.com/keidsondesigner/">![Instagram](https://github.com/keidsondesigner/social-icon/blob/main/instagram.png)</a>
 
-![Instagram](https://github.com/AvilySlv/avilyslv/blob/master/social/instagram.jpg)
+
+
