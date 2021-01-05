@@ -10,7 +10,7 @@
 
 
 
-<a href="https://www.w3schools.com">![Gmail](https://github.com/AvilySlv/avilyslv/blob/master/social/gmail.jpg)</a>
+<a href="https://www.w3schools.com">![Gmail](https://github.com/keidsondesigner/social-icon/blob/main/gmail.png</a>
 
 ![Linkedin](https://github.com/AvilySlv/avilyslv/blob/master/social/linkedin.jpg)
 
