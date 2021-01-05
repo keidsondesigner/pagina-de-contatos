@@ -1,20 +1,19 @@
+### Hello World I'm Keidson Roby :clap:
 
-Hello World I'm Avily Silva 👏
+> Let's get started!
 
-    Let's get started!
+:computer: Estudante de **Programação**
 
-💻 Apaixonado por Programação
+:cd: Tenho como hobby a **Música**
 
-💿 Tenho como hobby a Música
+:pencil: Adoro **criar** e **Desenhar**
 
-📝 Adoro Escrever e Desenhar
 
-❤️ Se preencha de compaixão ❤️
 
-Gmail
+![Gmail](https://github.com/AvilySlv/avilyslv/blob/master/social/gmail.jpg)
 
-Linkedin
+![Linkedin](https://github.com/AvilySlv/avilyslv/blob/master/social/linkedin.jpg)
 
-Twitter
+![Twitter](https://github.com/AvilySlv/avilyslv/blob/master/social/twitter.jpg)
 
-Instagram
+![Instagram](https://github.com/AvilySlv/avilyslv/blob/master/social/instagram.jpg)
