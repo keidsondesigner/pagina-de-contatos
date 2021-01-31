@@ -110,8 +110,8 @@ a:active {
 .btn-linkedin:hover {
   background: white;
   color: #0073af;
-  -webkit-transform: scale(103%);
-  transform: scale(103%);
+  -webkit-transform: scale(1.05);
+  transform: scale(1.05);
 }
 
 .btn-linkedin:active {
@@ -144,8 +144,8 @@ a:active {
 .btn-github:hover {
   background: white;
   color: #7c7c7c;
-  -webkit-transform: scale(103%);
-  transform: scale(103%);
+  -webkit-transform: scale(1.05);
+  transform: scale(1.05);
 }
 .btn-whatsapp{
   max-width: 35rem;
@@ -167,8 +167,8 @@ a:active {
 .btn-whatsapp:hover {
   background: white;
   color: #24cc63;
-  -webkit-transform: scale(103%);
-  transform: scale(103%);
+  -webkit-transform: scale(1.05);
+  transform: scale(1.05);
 }
 .btn-behance{
   max-width: 35rem;
@@ -190,8 +190,8 @@ a:active {
 .btn-behance:hover {
   background: white;
   color: #5c7cfa;
-  -webkit-transform: scale(103%);
-  transform: scale(103%);
+  -webkit-transform: scale(1.05);
+  transform: scale(1.05);
 }
 
 .btn-instagram{
@@ -214,8 +214,8 @@ a:active {
 .btn-instagram:hover {
   background: white;
   color: #ed8128;
-  -webkit-transform: scale(103%);
-  transform: scale(103%);
+  -webkit-transform: scale(1.05);
+  transform: scale(1.05);
 }
 
 .btn-facebook{
@@ -238,8 +238,8 @@ a:active {
 .btn-facebook:hover {
   background: white;
   color: #3a5794;
-  -webkit-transform: scale(103%);
-  transform: scale(103%);
+  -webkit-transform: scale(1.05);
+  transform: scale(1.05);
 }
 iframe{
   max-width: 100%;
