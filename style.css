@@ -77,7 +77,6 @@ a:active {
 }
 .container {
 	max-width: 600px;
-	min-width: 25px;
 	margin: 0 auto;
 	display: flex;
 /*	border: 1px solid #ccc; */
@@ -93,7 +92,7 @@ a:active {
 }
 .btn-linkedin{
   max-width: 35rem;
-  min-width: 23rem;
+  min-width: 18rem;
   min-height: 5rem;
   width: 95%;
   
