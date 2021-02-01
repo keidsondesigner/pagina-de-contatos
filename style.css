@@ -10,7 +10,7 @@ body{
   color: #000000;
 }
 h1{
-  font-size: 15px;
+  font-size: 26px;
   margin-top: 10px;
   margin-bottom: 10px;
   color: #000000;
@@ -21,7 +21,8 @@ h2{
   margin-bottom: 25px;
   color: #000000;
 }
-.p1{
+p{
+  flex: 1;
   margin-top: 10px;
   margin-bottom: 10px;
   font-size:16px;
@@ -32,10 +33,11 @@ a:link {
 }
   
   /* visited link */
-a:visited {
+/*
+  a:visited {
   color: #000000;
 }
-  
+*/ 
   /* mouse over link */
 a:hover {
   color: rgb(82, 200, 255);
@@ -70,32 +72,36 @@ a:active {
 }
 
 
-/* Flex Container */
+/* Flex Container type column */
 
-.column {
-	flex-direction: column;
-}
 .container {
-	max-width: 600px;
+  flex-direction: column;
+  max-width: 600px;
+  min-width: 30px;
 	margin: 0 auto;
 	display: flex;
 /*	border: 1px solid #ccc; */
 }
 /* Flex Item */
-.item {
-	/* O flex: 1; é necessário para que cada item se expanda ocupando o tamanho máximo do container. */
+.item, .bio {
+  /* O flex: 1; é necessário para que cada item se expanda ocupando o tamanho máximo do container. */
+  /*	background-color: tomato; */
 	flex: 1;
 	margin: 5px;
-/*	background: tomato; */
 	text-align: center;
 	font-size: 1.5em;
 }
-.btn-linkedin{
+
+
+
+#bnt {
   max-width: 35rem;
-  min-width: 21rem;
+  min-width: 23rem;
   min-height: 5rem;
   width: 95%;
-  
+}
+
+.linkedin {
   font-family: 'Montserrat', sans-serif;  
   font-size: 21px;  
   background: #ffffff;
@@ -107,29 +113,25 @@ a:active {
   cursor: pointer;
   transition-duration: 0.5s;
 }
-.btn-linkedin:hover {
+.linkedin:hover {
   background: white;
   color: #0073af;
   -webkit-transform: scale(1.05);
   transform: scale(1.05);
 }
 
-.btn-linkedin:active {
+.linkedin:active {
   background: white;
   color: rgb(82, 200, 255);
 }
 
-.btn-linkedin:visited {
+.linkedin:visited {
   background: white;
   color: rgb(82, 200, 255);
 }
 
-.btn-github{
-  max-width: 35rem;
-  min-width: 21rem;
-  min-height: 5rem;
-  width: 95%;
-  
+
+.github{
   font-family: 'Montserrat', sans-serif;  
   font-size: 21px;  
   background: #ffffff;
@@ -141,18 +143,13 @@ a:active {
   cursor: pointer;
   transition-duration: 0.5s;
 }
-.btn-github:hover {
+.github:hover {
   background: white;
   color: #7c7c7c;
   -webkit-transform: scale(1.05);
   transform: scale(1.05);
 }
-.btn-whatsapp{
-  max-width: 35rem;
-  min-width: 21rem;
-  min-height: 5rem;
-  width: 95%;
-  
+.whatsapp{
   font-family: 'Montserrat', sans-serif;  
   font-size: 21px;  
   background: #ffffff;
@@ -164,18 +161,13 @@ a:active {
   cursor: pointer;
   transition-duration: 0.5s;
 }
-.btn-whatsapp:hover {
+.whatsapp:hover {
   background: white;
   color: #24cc63;
   -webkit-transform: scale(1.05);
   transform: scale(1.05);
 }
-.btn-behance{
-  max-width: 35rem;
-  min-width: 21rem;
-  min-height: 5rem;
-  width: 95%;
-  
+.behance{
   font-family: 'Montserrat', sans-serif;  
   font-size: 21px;  
   background: #ffffff;
@@ -187,19 +179,14 @@ a:active {
   cursor: pointer;
   transition-duration: 0.5s;
 }
-.btn-behance:hover {
+.behance:hover {
   background: white;
   color: #5c7cfa;
   -webkit-transform: scale(1.05);
   transform: scale(1.05);
 }
 
-.btn-instagram{
-  max-width: 35rem;
-  min-width: 21rem;
-  min-height: 5rem;
-  width: 95%;
-  
+.instagram{
   font-family: 'Montserrat', sans-serif;  
   font-size: 21px;  
   background: #ffffff;
@@ -211,19 +198,14 @@ a:active {
   cursor: pointer;
   transition-duration: 0.5s;
 }
-.btn-instagram:hover {
+.instagram:hover {
   background: white;
   color: #ed8128;
   -webkit-transform: scale(1.05);
   transform: scale(1.05);
 }
 
-.btn-facebook{
-  max-width: 35rem;
-  min-width: 21rem;
-  min-height: 5rem;
-  width: 95%;
-  
+.facebook{
   font-family: 'Montserrat', sans-serif;  
   font-size: 21px;  
   background: #ffffff;
@@ -235,7 +217,7 @@ a:active {
   cursor: pointer;
   transition-duration: 0.5s;
 }
-.btn-facebook:hover {
+.facebook:hover {
   background: white;
   color: #3a5794;
   -webkit-transform: scale(1.05);
