@@ -6,26 +6,27 @@ body{
   background-position:center;
   background-size:200%;
   background-attachment:fixed;
-  font-family: 'Montserrat', sans-serif;
-  color: #000000;
+  font-family: 'Play', sans-serif;
 }
 h1{
-  font-size: 26px;
+  
   margin-top: 10px;
   margin-bottom: 10px;
-  color: #000000;
+  color: #0e1c34;
 }
-h2{
-  font-size: 22px;
+h4{
   margin-top: 1px;
   margin-bottom: 25px;
-  color: #000000;
+  color:  #0e1c34;
 }
 p{
-  flex: 1;
-  margin-top: 10px;
-  margin-bottom: 10px;
+  flex-direction: column;
+  max-width: 35rem;
+  min-width: 23rem;
+	margin: 0 auto;
+	display: flex;
   font-size:16px;
+  color:  #0e1c34;
 }
 
 a:link {
@@ -96,7 +97,7 @@ a:active {
 
 #bnt {
   max-width: 35rem;
-  min-width: 21rem;
+  min-width: 23rem;
   min-height: 5rem;
   width: 95%;
 }
