@@ -10,7 +10,6 @@ body{
   /*background-color: #fbf9fb;
   background-repeat:repeat;*/
   background-position:center;
-  background-size:200%;
   background-attachment:fixed;
   font-family: 'Play', sans-serif;
 }
@@ -82,14 +81,15 @@ a:active {
 }
 
 
-/* Flex Container type column */
+/* Flex Container tipo column */
 
 .container {
+  display: flex;
   flex-direction: column;
   max-width: 600px;
   min-width: 30px;
 	margin: 0 auto;
-  display: flex;
+ 
 /*	border: 1px solid #ccc; */
 }
 /* Flex Item */
@@ -228,8 +228,10 @@ a:active {
   transform: scale(1.05);
 }
 iframe{
-  max-width: 100%;
+  width: 95%;
+  max-height: 45%;
   border-radius: 10px;
+  margin: 0 auto;
 }
 .btn-back{
   background-color:#000000;
@@ -239,6 +241,7 @@ iframe{
   height: 40px;
   border:2px rgb(255, 255, 255) solid;
   border-radius:5px 15px;
+  margin:0 auto;
 }
 .btn-back:hover{
   background-color:#ffffff;
