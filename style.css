@@ -1,16 +1,16 @@
 @charset "UTF-8";
 
 body{
-  /*background-color: #fbf9fb;*/
-  background-repeat:repeat;
+  /*background-color: #fbf9fb;
+  background-repeat:repeat;*/
   background-position:center;
   background-size:200%;
   background-attachment:fixed;
-  font-family: 'Play', sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 
-body {
-	background: url('../imagens/background.svg') no-repeat;
+body{
+  background: url(imagens/bg.svg) no-repeat;
 }
 
 h1{
