@@ -1,5 +1,11 @@
 @charset "UTF-8";
 
+* {
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 body{
   /*background-color: #fbf9fb;
   background-repeat:repeat;*/
@@ -12,27 +18,25 @@ body{
 body{
   background: url(imagens/bg.svg) no-repeat;
 }
-
 h1{
-  
+  font-weight: 600px;
   margin-top: 10px;
   margin-bottom: 10px;
-  color: #0e1c34;
+  color: #0099ff;
 }
 h4{
   margin-top: 1px;
   margin-bottom: 25px;
-  color:  #0e1c34;
+  color:  #0099ff;
 }
 p{
-  flex-direction: column;
-  max-width: 35rem;
-  min-width: 23rem;
-	margin: 0 auto;
+  text-align: center;
 	display: flex;
   font-size:16px;
-  color:  #0e1c34;
+  margin: 0;
+  color:  #000000;
 }
+
 
 a:link {
   color: rgb(14, 117, 61);
@@ -85,7 +89,7 @@ a:active {
   max-width: 600px;
   min-width: 30px;
 	margin: 0 auto;
-	display: flex;
+  display: flex;
 /*	border: 1px solid #ccc; */
 }
 /* Flex Item */
@@ -102,7 +106,7 @@ a:active {
 
 #bnt {
   max-width: 35rem;
-  min-width: 23rem;
+  min-width: 13rem;
   min-height: 5rem;
   width: 95%;
 }
@@ -111,7 +115,6 @@ a:active {
   font-family: 'Montserrat', sans-serif;  
   font-size: 21px;  
   background: #ffffff;
-  color: #2e2c34;
   border: 2px solid #ffffff;
   border-radius: 8px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -141,7 +144,6 @@ a:active {
   font-family: 'Montserrat', sans-serif;  
   font-size: 21px;  
   background: #ffffff;
-  color: #2e2c34;
   border: 2px solid #ffffff;
   border-radius: 8px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -159,7 +161,6 @@ a:active {
   font-family: 'Montserrat', sans-serif;  
   font-size: 21px;  
   background: #ffffff;
-  color: #2e2c34;
   border: 2px solid #ffffff;
   border-radius: 8px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -177,7 +178,6 @@ a:active {
   font-family: 'Montserrat', sans-serif;  
   font-size: 21px;  
   background: #ffffff;
-  color: #2e2c34;
   border: 2px solid #ffffff;
   border-radius: 8px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -196,7 +196,6 @@ a:active {
   font-family: 'Montserrat', sans-serif;  
   font-size: 21px;  
   background: #ffffff;
-  color: #2e2c34;
   border: 2px solid #ffffff;
   border-radius: 8px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -215,7 +214,6 @@ a:active {
   font-family: 'Montserrat', sans-serif;  
   font-size: 21px;  
   background: #ffffff;
-  color: #2e2c34;
   border: 2px solid #ffffff;
   border-radius: 8px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
