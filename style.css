@@ -7,8 +7,6 @@
 }
 
 body{
-  /*background-color: #fbf9fb;
-  background-repeat:repeat;*/
   background-position:center;
   background-attachment:fixed;
   font-family: 'Play', sans-serif;
@@ -16,6 +14,7 @@ body{
 
 body{
   background: url(imagens/bg.svg) no-repeat;
+  font-size: 1.5em;
 }
 h1{
   font-weight: 600px;
@@ -94,15 +93,11 @@ a:active {
 }
 /* Flex Item */
 .item, .bio {
-  /* O flex: 1; é necessário para que cada item se expanda ocupando o tamanho máximo do container. */
+  
   /*	background-color: tomato; */
-	flex: 1;
 	margin: 5px;
 	text-align: center;
-	font-size: 1.5em;
 }
-
-
 
 #bnt {
   max-width: 35rem;
