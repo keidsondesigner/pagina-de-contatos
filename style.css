@@ -229,7 +229,7 @@ iframe{
   margin: 0 auto;
 }
 .btn-back{
-  background-color:#000000;
+  background-color:#0099ff;
   color: #ffffff;
   font-family: montserrat;
   width:150px;
@@ -240,11 +240,11 @@ iframe{
 }
 .btn-back:hover{
   background-color:#ffffff;
-  color: #000000;
+  color: #0099ff;
   font-family: montserrat;
   width:150px;
   height: 40px;
-  border:2px rgb(0, 0, 0) solid;
+  border:2px #0099ff solid;
   border-radius:5px 15px;
   cursor: pointer;
 }
