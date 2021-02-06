@@ -4,7 +4,7 @@
 
 :computer: Estudante de **Programação**
 
-:cd: Tenho como hobby a **Custom PC**
+:cd: Tenho como hobby **Custom PC**
 
 :pencil: Adoro **progrmar em Javascript**
 
