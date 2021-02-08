@@ -1,20 +1,13 @@
-### Hello World I'm Keidson Roby :clap:
+# 🚀 Minha Página de Contatos
 
-> Let's get started!
+> Esse repositório tem como objetivo principal apresentar meus estudos e aplicar em projetos pessoias.
 
-:computer: Estudante de **Programação**
+## ☕ Tecnologias Usadas
 
-:cd: Tenho como hobby **Custom PC**
+[![HTML](https://img.shields.io/badge/html%20-%23323330.svg?&style=for-the-badge&logo=html&logoColor=black&color=FF8000)](https://github.com/iuricode/ensinando-frontend/blob/main/modulos/html/html.br.md)
+[![CSS](https://img.shields.io/badge/css%20-%23323330.svg?&style=for-the-badge&logo=css&logoColor=black&color=2E64FE)](https://github.com/iuricode/ensinando-frontend/blob/main/modulos/css/CSS.br.md)
 
-:pencil: Adoro **progrmar em Javascript**
-
-
-
-<a href="https://www.gmail.com">![Gmail](https://github.com/keidsondesigner/social-icon/blob/main/gmail.png)</a>
-
-<a href="https://www.linkedin.com/in/keidsonroby/">![Linkedin](https://github.com/keidsondesigner/social-icon/blob/main/linkedin.png)</a>
-
-<a href="https://www.instagram.com/keidsondesigner/">![Instagram](https://github.com/keidsondesigner/social-icon/blob/main/instagram.png)</a>
-
-
-
+## ✨ Página de Contatos
+> O objetido da Minha Página de Contatos, eu queria criar ao parecido com Linktree<br>
+não só parecido, mas totalmente personalizável.
+https://keidsondesigner.github.io/MinhaSelecaoBrasileirao/
