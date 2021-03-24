@@ -10,4 +10,4 @@
 ## ✨ Página de Contatos
 > O objetido da Minha Página de Contatos, eu queria criar ao parecido com Linktree<br>
 não só parecido, mas totalmente personalizável.
-https://keidsondesigner.github.io/MinhaSelecaoBrasileirao/
+https://keidsondesigner.github.io/pagina-de-contatos/
